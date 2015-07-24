@@ -1,0 +1,14 @@
+spaf_version:1.0
+level: 1
+release: 1
+name:overflood
+authors:220
+category:coding tools
+tags:php,mysql,information
+brief:fill pseudo-realistic info to a SQL database
+description:Automatically fills tables on a MySQL db using PHP. Can set it to fill paragraphs, fe/male names, numbers and more.
+release_date:2005
+requirements:MySQL,PHP and server accounts
+platform:PHP
+devtools:Linux box,PHP
+sources-url:www.github.com/2-2-0/overflood
